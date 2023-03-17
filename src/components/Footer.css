@@ -1,0 +1,15 @@
+footer{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 15px;
+}
+footer h1{
+    background-color: transparent;
+    color: #fff;
+}
+footer h1 span{
+    color: #cfdd0d;
+    background-color: transparent;
+}

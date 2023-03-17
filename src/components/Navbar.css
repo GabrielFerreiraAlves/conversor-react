@@ -1,0 +1,16 @@
+nav{
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px 15px;
+    background-color: #0c0c0c;
+}
+nav h1{
+    background-color: transparent;
+    color: #fff;
+}
+nav h1 span{
+    color: #cfdd0d;
+    background-color: transparent;
+}
